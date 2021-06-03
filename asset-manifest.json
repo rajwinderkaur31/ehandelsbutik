@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/rajwinderkaur31/ehandelsbutik.git%20/static/css/main.4e117612.chunk.css",
-    "main.js": "/rajwinderkaur31/ehandelsbutik.git%20/static/js/main.7a914dc3.chunk.js",
-    "main.js.map": "/rajwinderkaur31/ehandelsbutik.git%20/static/js/main.7a914dc3.chunk.js.map",
-    "runtime-main.js": "/rajwinderkaur31/ehandelsbutik.git%20/static/js/runtime-main.82955b73.js",
-    "runtime-main.js.map": "/rajwinderkaur31/ehandelsbutik.git%20/static/js/runtime-main.82955b73.js.map",
-    "static/js/2.6f52d51b.chunk.js": "/rajwinderkaur31/ehandelsbutik.git%20/static/js/2.6f52d51b.chunk.js",
-    "static/js/2.6f52d51b.chunk.js.map": "/rajwinderkaur31/ehandelsbutik.git%20/static/js/2.6f52d51b.chunk.js.map",
-    "static/js/3.722e161a.chunk.js": "/rajwinderkaur31/ehandelsbutik.git%20/static/js/3.722e161a.chunk.js",
-    "static/js/3.722e161a.chunk.js.map": "/rajwinderkaur31/ehandelsbutik.git%20/static/js/3.722e161a.chunk.js.map",
-    "index.html": "/rajwinderkaur31/ehandelsbutik.git%20/index.html",
-    "static/css/main.4e117612.chunk.css.map": "/rajwinderkaur31/ehandelsbutik.git%20/static/css/main.4e117612.chunk.css.map",
-    "static/js/2.6f52d51b.chunk.js.LICENSE.txt": "/rajwinderkaur31/ehandelsbutik.git%20/static/js/2.6f52d51b.chunk.js.LICENSE.txt",
-    "static/media/logotype.9f1a799c.svg": "/rajwinderkaur31/ehandelsbutik.git%20/static/media/logotype.9f1a799c.svg",
-    "static/media/pokeball.94cd27f1.gif": "/rajwinderkaur31/ehandelsbutik.git%20/static/media/pokeball.94cd27f1.gif"
+    "main.css": "/ehandelsbutik/static/css/main.4e117612.chunk.css",
+    "main.js": "/ehandelsbutik/static/js/main.7a914dc3.chunk.js",
+    "main.js.map": "/ehandelsbutik/static/js/main.7a914dc3.chunk.js.map",
+    "runtime-main.js": "/ehandelsbutik/static/js/runtime-main.dba71eef.js",
+    "runtime-main.js.map": "/ehandelsbutik/static/js/runtime-main.dba71eef.js.map",
+    "static/js/2.6f52d51b.chunk.js": "/ehandelsbutik/static/js/2.6f52d51b.chunk.js",
+    "static/js/2.6f52d51b.chunk.js.map": "/ehandelsbutik/static/js/2.6f52d51b.chunk.js.map",
+    "static/js/3.722e161a.chunk.js": "/ehandelsbutik/static/js/3.722e161a.chunk.js",
+    "static/js/3.722e161a.chunk.js.map": "/ehandelsbutik/static/js/3.722e161a.chunk.js.map",
+    "index.html": "/ehandelsbutik/index.html",
+    "static/css/main.4e117612.chunk.css.map": "/ehandelsbutik/static/css/main.4e117612.chunk.css.map",
+    "static/js/2.6f52d51b.chunk.js.LICENSE.txt": "/ehandelsbutik/static/js/2.6f52d51b.chunk.js.LICENSE.txt",
+    "static/media/logotype.9f1a799c.svg": "/ehandelsbutik/static/media/logotype.9f1a799c.svg",
+    "static/media/pokeball.94cd27f1.gif": "/ehandelsbutik/static/media/pokeball.94cd27f1.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.82955b73.js",
+    "static/js/runtime-main.dba71eef.js",
     "static/js/2.6f52d51b.chunk.js",
     "static/css/main.4e117612.chunk.css",
     "static/js/main.7a914dc3.chunk.js"
