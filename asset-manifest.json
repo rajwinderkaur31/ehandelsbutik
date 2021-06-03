@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/ehandelsbutik/static/css/main.4e117612.chunk.css",
-    "main.js": "/ehandelsbutik/static/js/main.7a914dc3.chunk.js",
-    "main.js.map": "/ehandelsbutik/static/js/main.7a914dc3.chunk.js.map",
-    "runtime-main.js": "/ehandelsbutik/static/js/runtime-main.dba71eef.js",
-    "runtime-main.js.map": "/ehandelsbutik/static/js/runtime-main.dba71eef.js.map",
-    "static/js/2.6f52d51b.chunk.js": "/ehandelsbutik/static/js/2.6f52d51b.chunk.js",
-    "static/js/2.6f52d51b.chunk.js.map": "/ehandelsbutik/static/js/2.6f52d51b.chunk.js.map",
-    "static/js/3.722e161a.chunk.js": "/ehandelsbutik/static/js/3.722e161a.chunk.js",
-    "static/js/3.722e161a.chunk.js.map": "/ehandelsbutik/static/js/3.722e161a.chunk.js.map",
-    "index.html": "/ehandelsbutik/index.html",
-    "static/css/main.4e117612.chunk.css.map": "/ehandelsbutik/static/css/main.4e117612.chunk.css.map",
-    "static/js/2.6f52d51b.chunk.js.LICENSE.txt": "/ehandelsbutik/static/js/2.6f52d51b.chunk.js.LICENSE.txt",
-    "static/media/logotype.9f1a799c.svg": "/ehandelsbutik/static/media/logotype.9f1a799c.svg",
-    "static/media/pokeball.94cd27f1.gif": "/ehandelsbutik/static/media/pokeball.94cd27f1.gif"
+    "main.css": "/applikation/static/css/main.4e117612.chunk.css",
+    "main.js": "/applikation/static/js/main.7a914dc3.chunk.js",
+    "main.js.map": "/applikation/static/js/main.7a914dc3.chunk.js.map",
+    "runtime-main.js": "/applikation/static/js/runtime-main.77c9bcfe.js",
+    "runtime-main.js.map": "/applikation/static/js/runtime-main.77c9bcfe.js.map",
+    "static/js/2.6f52d51b.chunk.js": "/applikation/static/js/2.6f52d51b.chunk.js",
+    "static/js/2.6f52d51b.chunk.js.map": "/applikation/static/js/2.6f52d51b.chunk.js.map",
+    "static/js/3.722e161a.chunk.js": "/applikation/static/js/3.722e161a.chunk.js",
+    "static/js/3.722e161a.chunk.js.map": "/applikation/static/js/3.722e161a.chunk.js.map",
+    "index.html": "/applikation/index.html",
+    "static/css/main.4e117612.chunk.css.map": "/applikation/static/css/main.4e117612.chunk.css.map",
+    "static/js/2.6f52d51b.chunk.js.LICENSE.txt": "/applikation/static/js/2.6f52d51b.chunk.js.LICENSE.txt",
+    "static/media/logotype.9f1a799c.svg": "/applikation/static/media/logotype.9f1a799c.svg",
+    "static/media/pokeball.94cd27f1.gif": "/applikation/static/media/pokeball.94cd27f1.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.dba71eef.js",
+    "static/js/runtime-main.77c9bcfe.js",
     "static/js/2.6f52d51b.chunk.js",
     "static/css/main.4e117612.chunk.css",
     "static/js/main.7a914dc3.chunk.js"
